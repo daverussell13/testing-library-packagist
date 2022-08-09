@@ -1,0 +1,20 @@
+{
+  "name": "dave/testing-library",
+  "description": "Testing package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dave Russell",
+      "email": "daverussell1309@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dave\\Belajar\\": "src/"
+    }
+  }
+}
